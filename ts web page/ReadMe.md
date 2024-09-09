@@ -3,7 +3,7 @@
 Built with HTML, CSS and Vanilla Js
 
 
-![portfolio site screenshot](./screenshot.png)
+![portfolio site screenshot](Screenshot.png)
 
 ## License
 The MIT License ⚖️
